@@ -4,8 +4,9 @@ export default function NavBar() {
       <ol>
         <ul>home</ul>
         <ul>about</ul>
-        <ul>game</ul>
-        <ul>player</ul>
+        <li>Player</li>
+        <li>Games</li>
+        <li>Stat</li>
       </ol>
     </div>
   )
