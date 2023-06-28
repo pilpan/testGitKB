@@ -2,8 +2,8 @@ export default function NavBar() {
   return (
     <div>
       <ol>
-        <li>home</li>
-        <li>About</li>
+        <ul>home</ul>
+        <ul>about</ul>
         <li>Player</li>
         <li>Games</li>
         <li>Stat</li>
