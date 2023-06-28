@@ -1,5 +1,12 @@
 export default function NavBar() {
   return (
-    <div>NavBar</div>
+    <div>
+      <ol>
+        <ul>home</ul>
+        <ul>about</ul>
+        <ul>game</ul>
+        <ul>player</ul>
+      </ol>
+    </div>
   )
 }
